@@ -1,4 +1,6 @@
 Tripify::Application.routes.draw do
+  resources :trips
+
   resources :posts
 
   root 'posts#index'

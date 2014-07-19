@@ -15,3 +15,22 @@
 body {
   padding-top: 40px;
 }
+
+nav.navbar-inverse {
+  background-color: #66CC99;
+}
+
+.navbar-inverse .navbar-brand { 
+  color: #FFF
+}
+.navbar-inverse .navbar-brand:hover { 
+  color: #CCC
+}  
+
+.btn-primary {
+  background-color: #66CC99;
+  border-color: #1BBC9B;
+
+}
+
+
